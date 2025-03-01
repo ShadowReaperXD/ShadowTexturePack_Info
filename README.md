@@ -10,6 +10,27 @@ The Advanced info.
 CustomSwords:
 Rename:
   Any type of sword or axe:
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   ![WhatsApp Image 2025-03-01 at 19 17 25_c13be574](https://github.com/user-attachments/assets/5969c603-56bb-49bd-8fd8-00fed4b862a2)
   ![WhatsApp Image 2025-03-01 at 19 17 27_8103b956](https://github.com/user-attachments/assets/68098251-772c-43f1-a6ee-fc52589ea9da)
   ![WhatsApp Image 2025-03-01 at 19 17 28_99e689a8](https://github.com/user-attachments/assets/0d5a5c96-92b2-452a-98ab-e89079b1a85a)
@@ -18,5 +39,7 @@ Rename:
   ![WhatsApp Image 2025-03-01 at 19 17 30_5e332a4a](https://github.com/user-attachments/assets/4a783486-1cea-4cfc-85e3-b422505863b0)
 
 SOLO-LevellingSwords:
- btiersword , barukadagger , ctiersword , dtiersword , dagerduoa , dagergoldenb , daggerheata , daggerkarae , dagerknightd , demonkdagger , demonksword , etiersword , 
+ btiersword , barukadagger , ctiersword , dtiersword , dagerduoa , dagergoldenb , daggerheata , daggerkarae , dagerknightd , demonkdagger , demonksword , etiersword , emeralddager , frostblades , 
+ gravitydager , icespear , kamishwrath , kamishwrath2 , kasakasawake , kasakas , katanasuper , knightkiller , mythicdagger , stiersword , spiritbow , swordcurved , waraxe , swordwarriod ,
+ swordtwinwg , swordnatureb , swordenrichb
  
