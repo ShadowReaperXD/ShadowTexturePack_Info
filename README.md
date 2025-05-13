@@ -39,7 +39,8 @@ Rename:
   ![WhatsApp Image 2025-03-01 at 19 17 30_5e332a4a](https://github.com/user-attachments/assets/4a783486-1cea-4cfc-85e3-b422505863b0)
 
 SOLO-LevellingSwords:
- btiersword , barukadagger , ctiersword , dtiersword , dagerduoa , dagergoldenb , daggerheata , daggerkarae , dagerknightd , demonkdagger , demonksword , etiersword , emeralddager , frostblades , 
+ 
+btiersword , barukadagger , ctiersword , dtiersword , dagerduoa , dagergoldenb , daggerheata , daggerkarae , dagerknightd , demonkdagger , demonksword , etiersword , emeralddager , frostblades , 
  gravitydager , icespear , kamishwrath , kamishwrath2 , kasakasawake , kasakas , katanasuper , knightkiller , mythicdagger , stiersword , spiritbow , swordcurved , waraxe , swordwarriod ,
  swordtwinwg , swordnatureb , swordenrichb
  
